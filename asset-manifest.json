@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/uas/static/css/main.19dc3953.css",
-    "main.js": "/uas/static/js/main.a63eda59.js",
+    "main.css": "/uas/static/css/main.5d5c7ccc.css",
+    "main.js": "/uas/static/js/main.c35b9be5.js",
     "static/js/787.28cb0dcd.chunk.js": "/uas/static/js/787.28cb0dcd.chunk.js",
     "static/media/1.png": "/uas/static/media/1.c434e656b0603910a54a.png",
     "static/media/Nathan.JPG": "/uas/static/media/Nathan.9318a703942aa3695058.JPG",
@@ -23,15 +23,16 @@
     "static/media/Jason.jpg": "/uas/static/media/Jason.3ad4b8d41651779ab53a.jpg",
     "static/media/HeroBG.png": "/uas/static/media/HeroBG.ea4798994a13dba2a801.png",
     "static/media/Kolas.jpg": "/uas/static/media/Kolas.d9a0fdff526bea243341.jpg",
+    "static/media/LogoSignIn.png": "/uas/static/media/LogoSignIn.81cdb4252f7e480bd295.png",
+    "static/media/Logo.png": "/uas/static/media/Logo.5e1e80b349658963f94e.png",
     "static/media/Maman.jpg": "/uas/static/media/Maman.150aefc64f8d88f6e3f2.jpg",
-    "static/media/Logo.png": "/uas/static/media/Logo.955db5ca52670e699be2.png",
     "index.html": "/uas/index.html",
-    "main.19dc3953.css.map": "/uas/static/css/main.19dc3953.css.map",
-    "main.a63eda59.js.map": "/uas/static/js/main.a63eda59.js.map",
+    "main.5d5c7ccc.css.map": "/uas/static/css/main.5d5c7ccc.css.map",
+    "main.c35b9be5.js.map": "/uas/static/js/main.c35b9be5.js.map",
     "787.28cb0dcd.chunk.js.map": "/uas/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19dc3953.css",
-    "static/js/main.a63eda59.js"
+    "static/css/main.5d5c7ccc.css",
+    "static/js/main.c35b9be5.js"
   ]
 }
